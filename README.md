@@ -1,6 +1,6 @@
 # gulf-of-maine-projections
 
-A pipeline/workflow for using the Gulf of Maine year-2055 and year-2075 climate projections in species distribution models.
+A pipeline/workflow for using the Gulf of Maine year-2055 and year-2075 climate projections (Brickman et al. 2016) in species distribution models (cf Ross et al. 2021).
 
 Notes
  - Input data is 2GB, has to be stored elsewhere (ecocast)
