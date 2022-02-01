@@ -6,7 +6,7 @@ Notes
  - Input data is > 2GB, has to be stored elsewhere (ecocast)
  - Files are currently in matlab format. Convert to netcdf? Or just read in with a package?
 
-### References
+## References
 
 Brickman, D, Wang, Z, DeTracey, B. 2016. High resolution future climate ocean model simulations for the Northwest Atlantic Shelf Region. Canadian Technical Report of Hydrography and Ocean Sciences 315: xiv þ 143.
 
